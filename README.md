@@ -1,2 +1,2 @@
 # Galaxie-Klassifikation
-Bildklassifikation mit CNN (Transfer Learning
+Bildklassifikation mit CNN (Transfer Learning)
